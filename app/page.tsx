@@ -1,7 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import clsx from "clsx";
-import {roboto400, roboto700} from "./fonts/fonts";
 
 
 export default function Home() {
