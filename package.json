@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^5.19.1",
     "clsx": "^2.1.1",
+    "crisp-sdk-web": "^1.0.25",
+    "mysql2": "^3.11.3",
     "next": "14.2.9",
+    "prisma": "^5.19.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@types/node": "^20",
